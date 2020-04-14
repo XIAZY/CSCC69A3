@@ -1,0 +1,18 @@
+# editor config should remains personal
+.vscode
+# git is not good at handle large bianry files, like virtual disk images
+*.img
+*.img.*
+# compiled binaries
+ext2_cp
+ext2_ln
+ext2_ls
+ext2_rm
+ext2_rm_bonus
+ext2_mkdir
+readimage
+*.txt
+*.o
+*.dSYM
+readimg
+.DS_Store
